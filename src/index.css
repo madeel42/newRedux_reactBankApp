@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.btnStyle{
+  width: 12%;
+  margin: auto;
+  margin-top : 3%; 
+}
+.signupFormstyle,.loginUserstyle{
+  width: 36%;
+  margin: auto;
+}
